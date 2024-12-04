@@ -1,5 +1,5 @@
 Your code =:= 123456
-[Ex 01] Link to your repo =:= https://github.com/Yafooz24/ASE00-123456
+[Ex 01] Link to your repo =:= https://github.com/Yafooz24/ASE00-123456.git
 [Ex 05] Command to create the image =:= 
 [Ex 05] Command to execute the container =:= 
 [Ex 05] PORTS string of output of the container list =:= 
